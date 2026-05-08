@@ -1,4 +1,4 @@
-.platform/local
+.platform\local
 ===============
 
 This directory is where the Platform.sh CLI stores configuration files, builds, and
